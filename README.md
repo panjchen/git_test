@@ -6,3 +6,4 @@ Learning:
 - Git basics
 - GitHub workflow
 - SSH authentication
+- Doing by myself
